@@ -7,13 +7,13 @@
   "dependencies": {
     "@babel/runtime": "^7.14.6",
     "@polkadot/api": "^4.12.1",
-    "@polkadot/extension-base": "0.38.3",
+    "@polkadot/extension-base": "0.42.8",
     "@polkadot/extension-chains": "0.38.3",
     "@polkadot/extension-inject": "0.38.3",
-    "@polkadot/hw-ledger": "^6.6.1",
+    "@polkadot/hw-ledger": "^12.6.1",
     "@polkadot/keyring": "^6.6.1",
     "@polkadot/phishing": "0.6.164",
-    "@polkadot/ui-keyring": "^0.78.1",
+    "@polkadot/ui-keyring": "^1.0.1",
     "@polkadot/ui-settings": "^0.78.1",
     "@polymathnetwork/extension-core": "1.0.0-develop.7",
     "@polymathnetwork/extension-ui": "1.0.0-develop.7"
